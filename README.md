@@ -25,17 +25,17 @@ An engaging, modern, and responsive landing page for **ClimACT** — a climate a
 
 ## 🚀 Demo
 
-👉 **[View Live Demo](https://your-username.github.io/climact-landing-page/)**
+👉 **[View Live Demo](https://hrnns-ti.github.io/climact-landing-page/)**
 
 ---
 
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x500/45b890/ffffff?text=Desktop+View)
+![Desktop Screenshot](/preview/desktop.png)
 
 ### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/375x667/45b890/ffffff?text=Mobile+View)
+![Mobile Screenshot](/preview/mobile.png)
 
 ---
 
@@ -135,7 +135,7 @@ Five animated icon cards representing:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/climact-landing-page.git
+   git clone https://github.com/hrnns-ti/climact-landing-page.git
    ```
 
 2. **Navigate to the project directory**
@@ -225,8 +225,8 @@ This project is licensed under the **GPL License** - see the [LICENSE](LICENSE) 
 
 **Your Name**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [@hrnns-ti](https://github.com/hrnns-ti)
+- LinkedIn: [Haerunnas](https://linkedin.com/in/haerunnas)
 
 ---
 
@@ -249,7 +249,7 @@ This project is licensed under the **GPL License** - see the [LICENSE](LICENSE) 
 
 For questions or feedback, feel free to reach out:
 - Email: your.email@example.com
-- Project Link: [https://github.com/your-username/climact-landing-page](https://github.com/your-username/climact-landing-page)
+- Project Link: [https://github.com/hrnns-ti/climact-landing-page](https://github.com/hrnns-ti/climact-landing-page)
 
 ---
 
