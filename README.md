@@ -35,7 +35,7 @@ An engaging, modern, and responsive landing page for **ClimACT** — a climate a
 ![Desktop Screenshot](/preview/desktop.png)
 
 ### Mobile View
-![Mobile Screenshot](/preview/mobile.png)
+<img src="/preview/mobile.png" alt="Mobile Screenshot" width="350">
 
 ---
 
